@@ -1,0 +1,14 @@
+{
+  "name": "blinktemprature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Green",
+  "license": "MIT",
+  "dependencies": {
+    "node-blink-security": "^2.0.2"
+  }
+}
