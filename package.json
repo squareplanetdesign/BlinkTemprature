@@ -9,6 +9,9 @@
   "author": "Tom Green",
   "license": "MIT",
   "dependencies": {
-    "node-blink-security": "^2.0.2"
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "node-blink-security": "^2.0.2",
+    "smartthings-node": "0.0.4"
   }
 }
